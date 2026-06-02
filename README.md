@@ -38,7 +38,7 @@ The objective is to understand how different regression models perform on the sa
 
 ---
 
-[![View Projects](https://img.shields.io/badge/📂%20View%20More%20Projects-Click%20Here-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1EZjnrJsU31pRfbePbLB1SqFRPM9tB5Oj?usp=sharing)
+[![View Projects](https://img.shields.io/badge/📂%20View%20Projects-Click%20Here-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1EZjnrJsU31pRfbePbLB1SqFRPM9tB5Oj?usp=sharing)
 
 ---
 
